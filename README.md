@@ -9,7 +9,7 @@
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset, this project brings together key insights on data-related roles, salaries, and hiring trends in a single, interactive dashboard.
 
 ### Dashboard File
-You can find the dashboard file here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix)
+You can find the dashboard file here: [`Data_Jobs_Dashboard.pbix`](DATA_JOB_DASHBOARD.pbix)
 
 ---
 
@@ -51,6 +51,7 @@ This is the deep-dive page. From the main dashboard, you can drill through to ge
 ## Conclusion
 
 This dashboard demonstrates how Power BI can transform raw job posting data into a powerful tool for career analysis. Users can slice, filter, and drill through data to make informed decisions about their next career move.
+
 
 
 
